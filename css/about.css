@@ -44,7 +44,7 @@ h2{
     font-style: italic;
     color: var(--clr-darkgrey);
     font-size: 11px;
-    letter-spacing: calc(var(--font-size-normal)*0.5);
+    letter-spacing: calc(var(--font-size-normal)*0.4);
     margin-top: 0px;
     margin-bottom: 40px;
 }
